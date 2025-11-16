@@ -4,7 +4,7 @@
  Computer Science, New Era University
 
  Certifications
-* (We will add the SQL certificate here once you complete the course!)
+* (https://courses.cognitiveclass.ai/certificates/9c067a318ce54d7c91e3b9ab3549d1f2)
 
  Skillsets
 | Category | Skills |
