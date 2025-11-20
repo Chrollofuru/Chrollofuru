@@ -1,4 +1,4 @@
- Hello, I'm Chrollofuru
+ Hello, I'm Florence Gabriel Juanco
 
  Education
  Computer Science, New Era University
