@@ -10,7 +10,6 @@ Hello, I'm Florence Gabriel Juanco. I'm a dedicated **Computer Science** student
 
 
 
-## 📜 Certifications
 ## 📜 Certificates
 
 | Certificate | Issued By | Year |
