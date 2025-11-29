@@ -1,4 +1,6 @@
-![Welcome Banner](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HI%20there,%20I'm%20Florence)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HI%20there,%20I'm%20Florence" alt="Welcome Banner" />
+</p>
 # Hi there, I'm Florence Gabriel Juanco 👋
 
 Hello, I'm Florence Gabriel Juanco. I'm a dedicated **Computer Science** student at New Era University, driven by a passion for technology, problem-solving, and continuous learning. I enjoy exploring concepts and tools that help me create efficient solutions.
