@@ -18,7 +18,7 @@ Hello, I'm Florence Gabriel Juanco. I'm a dedicated **Computer Science** student
 | Computer Hardware Basics | Cisco Net Acad | 2025 |
 | [SQL Database 101](https://courses.cognitiveclass.ai/certificates/9c067a318ce54d7c91e3b9ab3549d1f2) | Cognitive Class AI | 2025 |
 | [OCI Foundations Associate 2025](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A3D9FA30CD7A57352CC4471C3E8134B89665E5BF1B72BE919B716AE378271143) | Oracle University | 2025 |
-| [OCI AI Foundations 2025](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A3D9FA30CD7A57352CC4471C3E8134B89665E5BF1B72BE9198716AE378271143) | Oracle University | 2025 |
+| [OCI AI Foundations 2025]() | Oracle University | 2025 |
 
 
 
