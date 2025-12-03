@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=HI%20there,%I'm%Florence" alt="Welcome Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=HI%20there,%I'm%Florence" alt="Welcome Banner" />
 </p>
 
 Hello, I'm Florence Gabriel Juanco. I'm a dedicated **Computer Science** student at New Era University, driven by a passion for technology, problem-solving, and continuous learning. I enjoy exploring concepts and tools that help me create efficient solutions.
