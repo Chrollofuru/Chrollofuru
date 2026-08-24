@@ -27,7 +27,7 @@ Hello, I'm Florence Gabriel Juanco. I'm a dedicated **Computer Science** student
 
 | Category | Skills |
 | :--- | :--- |
-| **Programming** | Python, SQL |
+| **Programming** | Python, SQL, Java |
 | **Tools & Platforms** | Git (Learning) |
 | **Concepts** | Data Structures, Algorithms |
 
