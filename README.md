@@ -19,13 +19,13 @@ I believe in learning by doing, and I'm always looking for opportunities to appl
 
 <h3>Connect with me:</h3>
 <p>
-<a href="[YOUR_LINKEDIN_URL_HERE](https://www.linkedin.com/in/florence-gabriel-juanco-b6b484327/)" target="_blank">
+<a href="(https://www.linkedin.com/in/florence-gabriel-juanco-b6b484327/)" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
-<a href="[YOUR_FACEBOOK_URL_HERE](https://www.facebook.com/gabriel.juanco.3)" target="_blank">
+<a href="(https://www.facebook.com/gabriel.juanco.3)" target="_blank">
 <img src="https://skillicons.dev/icons?i=fb" />
 </a>
-<a href="[YOUR_INSTAGRAM_URL_HERE](https://www.instagram.com/renzy_notfoundd/)" target="_blank">
+<a href="(https://www.instagram.com/renzy_notfoundd/)" target="_blank">
 <img src="https://skillicons.dev/icons?i=instagram" />
 </a>
 </p>
