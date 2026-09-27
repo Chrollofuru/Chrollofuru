@@ -1,8 +1,16 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:2c5364&height=250&section=header&text=FLORENCE%20GABRIEL%20JUANCO&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=COMPUTER%20SCIENCE%20STUDENT&descAlign=50&descAlignY=58&descSize=18&descColor=D8D8D8" width="100%"/> </div> <h2 align="center">Hi 👋, I'm Florence Gabriel Juanco</h2> <h3 align="center">A dedicated Computer Science student from the Philippines</h3> <p align="center"> I'm Florence Gabriel Juanco, a dedicated Computer Science student at New Era University. I'm driven by a genuine passion for technology, problem-solving, and continuous learning, and I enjoy exploring new concepts, tools, and frameworks that help me build efficient, practical solutions.
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=blur&color=0:000000,100:2c5364&height=250&section=header&text=FLORENCE%20GABRIEL%20JUANCO&fontSize=42&fontColor=FFFFFF&fontAlign=50&fontAlignY=40&desc=COMPUTER%20SCIENCE%20STUDENT&descAlign=50&descAlignY=58&descSize=18&descColor=D8D8D8" width="100%"/> </div> <h2 align="center">Hi 👋, I'm Florence Gabriel Juanco</h2> <h3 align="center">A dedicated Computer Science student from the Philippines</h3> <p align="center"> <p align="center">
+I'm Florence Gabriel Juanco, a dedicated Computer Science student at New Era University. I'm driven by a genuine passion for technology, problem-solving, and continuous learning, and I enjoy exploring new concepts, tools, and frameworks that help me build efficient, practical solutions.
+</p>
 
+<p align="center">
 Along the way, I've been steadily building my foundation in programming, databases, and computer science fundamentals while also picking up new tools like Git to support my growth as a developer.
+</p>
 
+<p align="center">
 I believe in learning by doing, and I'm always looking for opportunities to apply what I learn to real projects, challenges, and collaborations.
+</p>
+
+</div>
 
 </div>
 </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chrollofuru&label=Profile%20views&color=grey&style=flat" alt="Profile views"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,mysql,git" /> </p>
