@@ -13,8 +13,9 @@ I believe in learning by doing, and I'm always looking for opportunities to appl
 </div>
 
 </div>
-</p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=Chrollofuru&label=Profile%20views&color=grey&style=flat" alt="Profile views"/> </p> <p align="center"> <img src="https://skillicons.dev/icons?i=python,java,mysql,git" /> </p>
+
 <ul> <li>🎓 I'm currently studying <b>Computer Science</b> at <b>New Era University</b></li> <li>🛠️ I'm currently learning <b>Git</b></li> <li>💬 Ask me about <b>Python, SQL, or Java</b></li> <li>📫 How to reach me: <a href="mailto:Florence.Juanco@gmail.com">Florence.Juanco@gmail.com</a></li> <li>🔗 Find me on <a href="https://www.linkedin.com/in/florence-gabriel-juanco-b6b484327">LinkedIn</a></li> </ul>
+<h3>Connect with me:</h3> <p> <a href="https://www.linkedin.com/in/florence-gabriel-juanco-b6b484327" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:Florence.Juanco@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <h3>Languages and Tools:</h3> <p><b>Programming</b></p> <p> <img src="https://skillicons.dev/icons?i=python,java,mysql" /> </p> <p><b>Tools & Platforms</b></p> <p> <img src="https://skillicons.dev/icons?i=git" /> </p> <p><b>Concepts</b></p> <p> <img src="https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge"/> </p>
 
 
 ## 📜 Certificates
