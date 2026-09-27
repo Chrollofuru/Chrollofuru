@@ -22,9 +22,3 @@
 | **Tools & Platforms** | Git (Learning) |
 | **Concepts** | Data Structures, Algorithms |
 
-
-
-## 🔗 Let's Connect!
-
-* **LinkedIn:** https://www.linkedin.com/in/florence-gabriel-juanco-b6b484327
-* **Email:** Florence.Juanco@gmail.com
