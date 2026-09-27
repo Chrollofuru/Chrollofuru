@@ -48,6 +48,8 @@ I believe in learning by doing, and I'm always looking for opportunities to appl
 <p>
 <img src="https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Backend-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/SecDevOps-000000?style=for-the-badge"/>
 </p>
 
 
