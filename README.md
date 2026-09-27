@@ -15,8 +15,7 @@ I believe in learning by doing, and I'm always looking for opportunities to appl
 </div>
 
 <ul> <li>🎓 I'm currently studying <b>Computer Science</b> at <b>New Era University</b></li> <li>🛠️ I'm currently learning <b>Git</b></li> <li>💬 Ask me about <b>Python, SQL, or Java</b></li> <li> <a <h3></h3>
-<h3>Connect with me:</h3> <p> <a href="https://www.linkedin.com/in/florence-gabriel-juanco-b6b484327" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:Florence.Juanco@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <h3>Connect with me:</h3>
-<p>
+<h3>Connect with me:
 <a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
