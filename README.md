@@ -15,7 +15,22 @@ I believe in learning by doing, and I'm always looking for opportunities to appl
 </div>
 
 <ul> <li>🎓 I'm currently studying <b>Computer Science</b> at <b>New Era University</b></li> <li>🛠️ I'm currently learning <b>Git</b></li> <li>💬 Ask me about <b>Python, SQL, or Java</b></li> <li> <a <h3></h3>
-<h3>Connect with me:</h3> <p> <a href="https://www.linkedin.com/in/florence-gabriel-juanco-b6b484327" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:Florence.Juanco@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> </p> <h3>Languages and Tools:</h3> <p><b>Programming</b></p> <p> <img src="https://skillicons.dev/icons?i=python,java,mysql" /> </p> <p><b>Tools & Platforms</b></p> <p> <img src="https://skillicons.dev/icons?i=git" /> </p> <p><b>Concepts</b></p> <p> <img src="https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge"/> </p>
+<h3>Connect with me:</h3> <p> <a href="https://www.linkedin.com/in/florence-gabriel-juanco-b6b484327" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:Florence.Juanco@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> <h3>Connect with me:</h3>
+<p>
+<a href="YOUR_LINKEDIN_URL_HERE" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:Florence.Juanco@gmail.com" target="_blank">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="YOUR_FACEBOOK_URL_HERE" target="_blank">
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+<a href="YOUR_INSTAGRAM_URL_HERE" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+</p>
+</a> </p> <h3>Languages and Tools:</h3> <p><b>Programming</b></p> <p> <img src="https://skillicons.dev/icons?i=python,java,mysql" /> </p> <p><b>Tools & Platforms</b></p> <p> <img src="https://skillicons.dev/icons?i=git" /> </p> <p><b>Concepts</b></p> <p> <img src="https://img.shields.io/badge/Data%20Structures-000000?style=for-the-badge"/> <img src="https://img.shields.io/badge/Algorithms-000000?style=for-the-badge"/> </p>
 
 
 ## 📜 Certificates
