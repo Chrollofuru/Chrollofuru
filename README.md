@@ -62,6 +62,6 @@ I believe in learning by doing, and I'm always looking for opportunities to appl
 | [OCI Foundations Associate 2025](https://catalog-education.oracle.com/ords/certview/sharebadge?id=A3D9FA30CD7A57352CC4471C3E8134B89665E5BF1B72BE919B716AE378271143) | Oracle University | 2025 |
 | [Oracle Data Platform Foundations Associate 2025](https://catalog-education.oracle.com/ords/certview/sharebadge?id=973E089BB791E0B0D191C67F8A4FC9C93308121D35B5D44B002396411C4671FB) | Oracle University | 2025|
 | [OCI AI Foundations 2025](https://catalog-education.oracle.com/ords/certview/sharebadge?id=765845D57435121006A3E42751DB13DE28B241A6CBFAB5DB2C6A1232666AA042) | Oracle University | 2025 |
-| [2026 Cyber Resilience Summit]() | Cyber Resilience Security | 2026 |
+| [2026 Cyber Resilience Summit](Florence_Gabriel_Juanco_Certificate.pdf) | Cyber Resilience Security | 2026 |
 
 
